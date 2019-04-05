@@ -1,0 +1,15 @@
+current directory: /Users/ogu/Desktop/den/chot_app/vendor/bundle/gems/bindex-0.6.0/ext/skiptrace
+/Users/ogu/.rbenv/versions/2.6.1/bin/ruby -I /Users/ogu/.rbenv/versions/2.6.1/lib/ruby/2.6.0 -r ./siteconf20190404-71408-18d81yc.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ogu/Desktop/den/chot_app/vendor/bundle/gems/bindex-0.6.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/ogu/Desktop/den/chot_app/vendor/bundle/gems/bindex-0.6.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/ogu/Desktop/den/chot_app/vendor/bundle/gems/bindex-0.6.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190404-71408-o2oank/skiptrace
